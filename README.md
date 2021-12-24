@@ -3,7 +3,7 @@ A simple program that "locks" your display preventing people from accessing your
 
 ![prealphasss](https://raw.githubusercontent.com/X86-7/xenon-locker/main/pictures/preview.png)
 
-![prealphasss](https://raw.githubusercontent.com/X86-7/xenon-locker/main/preview%20authenticate.png)
+![prealphasss](https://raw.githubusercontent.com/X86-7/xenon-locker/main/pictures/preview%20authenticate.png)
 
 # Beta 1 RELEASED
 
