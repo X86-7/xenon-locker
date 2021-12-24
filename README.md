@@ -1,7 +1,7 @@
 # Xenon Locker
 A simple program that "locks" your display preventing people from accessing your computer in public. 
 
-![prealphasss](https://github.com/X86-7/xenon-locker/blob/main/preview.png)
+![prealphasss](https://raw.githubusercontent.com/X86-7/xenon-locker/main/pictures/preview.png)
 
 ![prealphasss](https://raw.githubusercontent.com/X86-7/xenon-locker/main/preview%20authenticate.png)
 
