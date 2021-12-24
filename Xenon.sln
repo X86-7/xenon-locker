@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenon", "Xenon\Xenon.csproj", "{7CCA0C7F-2BF3-44FC-BC68-0B8404C4E333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCA0C7F-2BF3-44FC-BC68-0B8404C4E333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCA0C7F-2BF3-44FC-BC68-0B8404C4E333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCA0C7F-2BF3-44FC-BC68-0B8404C4E333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCA0C7F-2BF3-44FC-BC68-0B8404C4E333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AC0A70-0639-4C85-8875-C36DCE919880}
+	EndGlobalSection
+EndGlobal

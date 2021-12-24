@@ -1,0 +1,81 @@
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\Xenon.exe.config
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\Xenon.exe
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\Xenon.pdb
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.csproj.AssemblyReference.cache
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.csproj.SuggestedBindingRedirects.cache
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.Form1.resources
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.Properties.Resources.resources
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.csproj.GenerateResource.cache
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.csproj.CoreCompileInputs.cache
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.exe
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.pdb
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Buffers.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Memory.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Resources.Extensions.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Buffers.xml
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Memory.xml
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Resources.Extensions.xml
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.csproj.CopyComplete
+C:\Users\airfo\source\repos\Xenon\Xenon\obj\Debug\Xenon.Setup.resources
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\ReaLTaiizor.dll
+C:\Users\airfo\source\repos\Xenon\Xenon\bin\Debug\ReaLTaiizor.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\Xenon.exe.config
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\Xenon.exe
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\Xenon.pdb
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\ReaLTaiizor.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Buffers.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Memory.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Resources.Extensions.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\ReaLTaiizor.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Buffers.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Memory.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Resources.Extensions.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.AssemblyReference.cache
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.SuggestedBindingRedirects.cache
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.Form1.resources
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.Properties.Resources.resources
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.Setup.resources
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.GenerateResource.cache
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.CoreCompileInputs.cache
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.CopyComplete
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.exe
+C:\Users\John Henry\Desktop\Xenon\Xenon\obj\Debug\Xenon.pdb
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\Xenon.exe.config
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\Xenon.exe
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\Xenon.pdb
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\ReaLTaiizor.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Buffers.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Memory.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Resources.Extensions.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\ReaLTaiizor.xml
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Buffers.xml
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Memory.xml
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Resources.Extensions.xml
+C:\Users\h3l1x\Desktop\Xenon\Xenon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.AssemblyReference.cache
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.SuggestedBindingRedirects.cache
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.Form1.resources
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.Properties.Resources.resources
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.Setup.resources
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.GenerateResource.cache
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.CoreCompileInputs.cache
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.csproj.CopyComplete
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.exe
+C:\Users\h3l1x\Desktop\Xenon\Xenon\obj\Debug\Xenon.pdb
